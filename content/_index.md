@@ -6,7 +6,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/undraw_Dog_walking_re_l61p.svg
-    background_image_opacity: 65
+    background_image_opacity: 100
     content: >-
       # Real, beautiful plants right to your door
 
